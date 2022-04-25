@@ -19,5 +19,5 @@ Things I wasn't able to do-
 * Load the previous state upon refresh(used localStorage for that, but didn't work for some reason)
 * Could append the completed items, but not remove it from it's initial location.
 
-Would definitely love to rectify these things in the next few days.
+Would definitely try to rectify these things asap.
 
