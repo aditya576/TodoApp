@@ -14,10 +14,10 @@ You can even reset all the todos when you are done forr the day.
 
 ![image](https://user-images.githubusercontent.com/55613768/165099415-c5f38ee0-0329-48cb-a99c-7d7cf7e383cd.png)
 
-Things I wasn't able to do-
+Functionalities I wasn't able to add-
 
 * Load the previous state upon refresh(used localStorage for that, but didn't work for some reason)
 * Could append the completed items, but not remove it from it's initial location.
 
-Would definitely try to rectify these things asap.
+Would definitely learn and try to add these functionalities asap.
 
